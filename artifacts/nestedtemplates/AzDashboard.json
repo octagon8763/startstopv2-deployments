@@ -47,7 +47,7 @@
                   "settings": {
                     "content": {
                       "settings": {
-                        "content": "[concat('This is your StartStop VMs dashboard.\n\nFor more information view [doc](https://github.com/microsoft/startstopv2-deployments/blob/main/README.md)\n\n**Deployment information**\n> **Subscription :** ', subscription().displayName, '  \n> **Resource Group :** ',resourceGroup().name, '  \n> **Application Insights :** ', parameters('appInsightName'))]",
+                        "content": "[concat('This is your StartStop VMs dashboard.\n\nFor more information view [doc](https://github.com/octagon8763/startstopv2-deployments/blob/main/README.md)\n\n**Deployment information**\n> **Subscription :** ', subscription().displayName, '  \n> **Resource Group :** ',resourceGroup().name, '  \n> **Application Insights :** ', parameters('appInsightName'))]",
                         "title": "Welcome!",
                         "subtitle": "",
                         "markdownSource": 1
